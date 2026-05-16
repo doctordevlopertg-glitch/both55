@@ -5,7 +5,7 @@ from os import environ
 
 API_ID = int(environ.get("API_ID", "39683282")) #Replace with your api id
 API_HASH = environ.get("API_HASH", "ab1cc41ca283d480ebe386b1dce182f3") #Replace with your api hash
-BOT_TOKEN = environ.get("BOT_TOKEN", "8823740111:AAHTCsIiwIRRTfBdt2-rj7LjFVAN4eHdLgo") #Replace with your bot token
+BOT_TOKEN = environ.get("BOT_TOKEN", "8865656128:AAFuAje0sVSus6kACBc3Qp5vuVycgPKYh0M") #Replace with your bot token
 
 # Database Configuration for MongoDB
 # Example: "mongodb://user:password@host:port/dbname"
